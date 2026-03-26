@@ -31,7 +31,7 @@ const Navbar = () => {
           </div>
 
           <div className="flex">
-            <Link href="https://www.mjam.net/" target="_blank" className="bg-coral text-background px-8 py-2 rounded-full font-semibold">
+            <Link href="/shop" className="bg-coral text-background px-8 py-2 rounded-full font-semibold">
               delivery
             </Link>
           </div>
